@@ -203,7 +203,7 @@ int main(void) {
 
         if (comand_compare(cmd, "QUIT")) {
             save_database();
-            printf("Database saved to %s. Goodby.\n", DB_FILE);
+            printf("Database saved to %s. Goodbyy.\n", DB_FILE);
             break;
         }
 
